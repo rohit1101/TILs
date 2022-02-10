@@ -1,6 +1,6 @@
 ## TIL
 
-> Created this repo for tracking my daily learning.
+> Created this repo for tracking my daily learning & inspired by https://github.com/jbranchaud/til
 
 | Date        | What did i learn |
 | ----------- | ---------------- |
