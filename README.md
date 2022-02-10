@@ -1,6 +1,6 @@
 ## TIL
 
-> Created this repo for tracking my learning over the days.
+> Created this repo for tracking my daily learning.
 
 | Date        | What did i learn |
 | ----------- | ---------------- |
