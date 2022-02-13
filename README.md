@@ -2,7 +2,15 @@
 
 > Created this repo for tracking my daily learning & inspired by https://github.com/jbranchaud/til
 
-| Date        | What did i learn |
-| ----------- | ---------------- |
-| 10-02-2022  | https://web.dev/learn/design/intro/#a-meta-element-for-viewport |
+[use case of meta element]: https://web.dev/learn/design/intro/#a-meta-element-for-viewport
+[component stack trace]: https://reactjs.org/blog/2017/07/26/error-handling-in-react-16.html#component-stack-traces
+[reference links]: https://www.markdownguide.org/basic-syntax/#reference-style-links
+
+
+| Date        | What did i learn | From where did i learn | 
+| ----------- | ---------------- | ---------------------- |
+| 10-02-2022  | Learnt why meta element is being used in HTML | [use case of meta element]  |
+| 11-02-2022  | Learnt how to fix React bugs using component stack trace | [component stack trace] |
+| 12-02-2022  | Learnt how to use reference links in Markdown | [reference links] |
+
 
