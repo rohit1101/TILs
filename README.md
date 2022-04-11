@@ -9,6 +9,7 @@
 [why logical properties ?]: https://web.dev/learn/design/internationalization/#logical-properties
 [solution]: https://github.com/strapi/strapi/issues/4289
 [modify media type on strapi]: <img width="920" alt="image" src="https://user-images.githubusercontent.com/37110560/157438193-20d57f6e-0f2f-4147-b0eb-8c5f5bf9ef08.png">
+[flexbox align-content]: https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-align-content
 
 
 | Date        | What did i learn | From where did i learn | 
@@ -20,3 +21,4 @@
 | 14-02-2022  | Learnt why we should use logical properties | [why logical properties ?] | 
 | 08-03-2022  | Learnt why this error occurs on strapi | [solution] |
 | 09-03-2022  | Learnt how to change media type on strapi | ![modify media type on strapi] |
+| 11-04-2022  | Learnt the difference between align-items and align-contents when using `display:flex;` | [flexbox align-content] |
