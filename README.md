@@ -11,7 +11,7 @@
 [modify media type on strapi]: <img width="920" alt="image" src="https://user-images.githubusercontent.com/37110560/157438193-20d57f6e-0f2f-4147-b0eb-8c5f5bf9ef08.png">
 [flexbox align-content]: https://stackoverflow.com/a/45713137
 [deconstruted pancake layout]: https://web.dev/one-line-layouts/#02.-the-deconstructed-pancake:-flex:-lessgrowgreater-lessshrinkgreater-lessbasewidthgreater
-
+[solution]: https://github.com/ohmyzsh/ohmyzsh/issues/6257
 
 | Date        | What did i learn | From where did i learn | 
 | ----------- | ---------------- | ---------------------- |
@@ -24,3 +24,4 @@
 | 09-03-2022  | Learnt how to change media type on strapi | ![modify media type on strapi] |
 | 11-04-2022  | Learnt the difference between align-items and align-contents when using `display:flex;` | [flexbox align-content] |
 | 11-04-2022  | Learnt about deconstructed pancake layout | [deconstruted pancake layout] |
+| 29-04-2022  | Learnt how to fix env: node: No such file or directory on macOS | [solution] |
