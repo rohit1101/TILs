@@ -12,6 +12,7 @@
 [flexbox align-content]: https://stackoverflow.com/a/45713137
 [deconstruted pancake layout]: https://web.dev/one-line-layouts/#02.-the-deconstructed-pancake:-flex:-lessgrowgreater-lessshrinkgreater-lessbasewidthgreater
 [solution]: https://github.com/ohmyzsh/ohmyzsh/issues/6257
+[gif]: https://user-images.githubusercontent.com/37110560/169641930-440d82d0-3226-4acd-99b6-ca9eb65543c1.mov
 
 | Date        | What did i learn | From where did i learn | 
 | ----------- | ---------------- | ---------------------- |
@@ -25,3 +26,8 @@
 | 11-04-2022  | Learnt the difference between align-items and align-contents when using `display:flex;` | [flexbox align-content] |
 | 11-04-2022  | Learnt about deconstructed pancake layout | [deconstruted pancake layout] |
 | 29-04-2022  | Learnt how to fix env: node: No such file or directory on macOS | [solution] |
+| 20-05-2022  | Learnt that align-items would work if height is set on the flex container irrespective of the flex-direction | [gif] |
+
+
+
+
