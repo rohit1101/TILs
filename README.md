@@ -26,6 +26,7 @@
 | 11-04-2022  | Learnt the difference between align-items and align-contents when using `display:flex;` | [flexbox align-content] |
 | 11-04-2022  | Learnt about deconstructed pancake layout | [deconstruted pancake layout] |
 | 29-04-2022  | Learnt how to fix env: node: No such file or directory on macOS | [solution] |
+| 19-05-2022  | By default all flex items shrink since the default value of is `flex: 0 1 auto` | |
 | 20-05-2022  | Learnt that align-items would work if height is set on the flex container irrespective of the flex-direction | [gif] |
 | 21-05-2022  | Learnt setting fixed height on flex-items will tend to match with the sibilings flex-items and will stretch the content | |
 | 22-05-2022  | Pro-tip: Try not to use `display:flex;` on mobile breakpoint and `display:flex;` on tablet or desktop breakpoint | |
