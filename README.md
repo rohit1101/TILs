@@ -14,6 +14,7 @@
 [solution]: https://github.com/ohmyzsh/ohmyzsh/issues/6257
 [gif]: https://user-images.githubusercontent.com/37110560/169641930-440d82d0-3226-4acd-99b6-ca9eb65543c1.mov
 [port-forwarding]: https://kubernetes.io/docs/tasks/access-application-cluster/port-forward-access-application-cluster/#forward-a-local-port-to-a-port-on-the-pod
+[sonar-scanner-command]: https://docs.sonarsource.com/sonarqube/latest/analyzing-source-code/scanners/sonarscanner-for-npm/using-the-sonarscanner-for-npm/#command-line
 
 | Date        | What did i learn | From where did i learn | 
 | ----------- | ---------------- | ---------------------- |
@@ -32,5 +33,6 @@
 | 21-05-2022  | Learnt setting fixed height on flex-items will tend to match with the sibilings flex-items and will stretch the content | |
 | 22-05-2022  | Pro-tip: Try not to use `display:flex;` on mobile breakpoint and `display:flex;` on tablet or desktop breakpoint | |
 | 16-06-2024  | Learnt how to access service exposed on K8s cluster locally | [port-forwarding] | |
+| 05-07-2024  | Command for executing sonar-scanner for a nodejs project using jenkins scripted pipeline | [sonar-scanner-command] | |
 
 
