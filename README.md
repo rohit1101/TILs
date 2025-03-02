@@ -17,6 +17,7 @@
 [sonar-scanner-command]: https://docs.sonarsource.com/sonarqube/latest/analyzing-source-code/scanners/sonarscanner-for-npm/using-the-sonarscanner-for-npm/#command-line
 [running docker as non-root user]: https://docs.docker.com/engine/install/linux-postinstall/
 [clean up container after exit]: https://docs.docker.com/reference/cli/docker/container/run/#rm
+[command for cloning a specific branch on git]: https://stackoverflow.com/a/1911126
 
 | Date        | What did i learn | From where did i learn | 
 | ----------- | ---------------- | ---------------------- |
@@ -37,6 +38,7 @@
 | 16-06-2024  | Learnt how to access service exposed on K8s cluster locally | [port-forwarding] | |
 | 05-07-2024  | Command for executing sonar-scanner for a nodejs project using jenkins scripted pipeline | [sonar-scanner-command] | |
 | 01-01-2025  | Steps to setup docker CLI with non-root user privilages | [running docker as non-root user] | |
-| 01-03-2025  | Learnt an interesting command to cleanup the container once it is exited | [clean up container after exit]
+| 01-03-2025  | Learnt an interesting command to cleanup the container once it is exited | [clean up container after exit] |
+| 02-03-2025  | git command to clone only a particular branch | [command for cloning a specific branch on git] |
 
 
