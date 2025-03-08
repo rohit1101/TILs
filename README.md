@@ -20,6 +20,7 @@
 [command for cloning a specific branch on git]: https://stackoverflow.com/a/1911126
 [docker compose down]: https://docs.docker.com/reference/cli/docker/compose/down/
 [clear terminal]: https://askubuntu.com/questions/25077/how-to-really-clear-the-terminal
+[Perfect Forward Secercy]: https://www.vmware.com/topics/perfect-forward-secrecy
 
 | Date        | What did i learn | From where did i learn | 
 | ----------- | ---------------- | ---------------------- |
@@ -44,5 +45,6 @@
 | 02-03-2025  | git command to clone only a particular branch | [command for cloning a specific branch on git] |
 | 05-03-2025  | Learnt that docker compose down does not remove the external volumes created we need to pass -v flag for removing the volumes also | [docker compose down]
 | 06-03-2025  | Finally learnt on GNU/Linux systems `ctrl+l` I was trying to hit `cmd+k` from muscle memory of using a macOS | [clear terminal]
+| 07-03-2025  | Came to know about Perfect Forward secercy security best practice | [Perfect Forward Secercy] |
 
 
