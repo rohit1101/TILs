@@ -23,7 +23,7 @@
 [Perfect Forward Secercy]: https://www.vmware.com/topics/perfect-forward-secrecy
 [sar command]: https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/4/html/introduction_to_system_administration/s3-resource-tools-sar-sar#s4-resource-tools-sar-reading
 [spanner CAP Theorem]: https://cloud.google.com/blog/products/databases/inside-cloud-spanner-and-the-cap-theorem
-
+[nmcli]: https://ubuntu.com/core/docs/networkmanager/configure-wifi-connections
 | Date        | What did i learn | From where did i learn | 
 | ----------- | ---------------- | ---------------------- |
 | 10-02-2022  | Learnt why meta element is being used in HTML | [use case of meta element]  |
@@ -50,5 +50,6 @@
 | 07-03-2025  | Came to know about Perfect Forward secercy security best practice | [Perfect Forward Secercy] |
 | 09-03-2025  | Learnt about sar - system activity report command | [sar command] | 
 | 11-03-2025  | Learnt that google spanner almost breaks the CAP theorem | [spanner CAP Theorem]
+| 12-03-2025  | Turning on/off wifi via terminal | [nmcli] |
 
 
