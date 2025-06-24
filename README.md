@@ -54,4 +54,5 @@
 | 11-03-2025  | Learnt that google spanner almost breaks the CAP theorem | [spanner CAP Theorem]
 | 12-03-2025  | Turning on/off wifi via terminal | [nmcli] |
 | 22-03-2025  | Today I learnt about a service name apprunner on AWS which is similar to GCP Cloud Run | [app runner]
+| 24-06-2025  | To know the type of init system run this command `ps -p 1` | 
 
