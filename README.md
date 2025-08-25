@@ -25,6 +25,7 @@
 [spanner CAP Theorem]: https://cloud.google.com/blog/products/databases/inside-cloud-spanner-and-the-cap-theorem
 [nmcli]: https://ubuntu.com/core/docs/networkmanager/configure-wifi-connections
 [app runner]: https://docs.aws.amazon.com/apprunner/latest/dg/getting-started.html
+[cloud map]: https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html
 
 | Date        | What did i learn | From where did i learn | 
 | ----------- | ---------------- | ---------------------- |
@@ -55,4 +56,5 @@
 | 12-03-2025  | Turning on/off wifi via terminal | [nmcli] |
 | 22-03-2025  | Today I learnt about a service name apprunner on AWS which is similar to GCP Cloud Run | [app runner]
 | 24-06-2025  | To know the type of init system run this command `ps -p 1` | 
+| 25-06-2025  | Today I learnt how to internally map cloud services on aws using cloud map | [cloud map]
 
